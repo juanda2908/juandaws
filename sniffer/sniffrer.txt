@@ -1,0 +1,2 @@
+para ejecutar el sniffer se debe usar el comando 
+sudo nohup python3 sniffer.py
